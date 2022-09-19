@@ -20,6 +20,6 @@
 <div> 
  
   <a href = "mailto:franklyn_vs_@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/franklyn-v-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/franklyn-v-santos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-yellowgreen" target="_blank"></a> 
 ![Snake animation](https://github.com/thak1996/thak1996/blob/output/github-contribution-grid-snake.svg) 
 </div>

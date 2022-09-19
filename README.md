@@ -1,6 +1,6 @@
-## Olá, eu sou o Franklyn Viana dos Santos, desenvolvedor mobile front-end com foco em Flutter e Dart.
+## Olá! 
 
-
+### Eu sou o Franklyn Viana dos Santos, desenvolvedor mobile front-end com foco em Flutter e Dart.
 
 <div style="display: inline_block" align="center" >
   <a href="https://github.com/thak1996">

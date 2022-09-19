@@ -1,7 +1,6 @@
-## Olá, eu sou o Franklyn Viana dos Santos, desenvolvedor mobile front-end. 
+## Olá, eu sou o Franklyn Viana dos Santos, desenvolvedor mobile front-end.
 
-
-<div style="display: inline_block">
+<div style="display: inline_block" align="center" >
   <a href="https://github.com/thak1996">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&langs_count=7&theme=midnight-purple"/>
@@ -17,9 +16,11 @@
   
   ##
  
-<div align="center"> 
+<div align="center">
 
-  <a href = "mailto:franklyn_vs_@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/franklyn-v-santos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-yellowgreen" target="_blank"></a> 
-![Snake animation](https://github.com/thak1996/thak1996/blob/output/github-contribution-grid-snake.svg) 
+<a href = "mailto:franklyn_vs_@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/franklyn-v-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://t.me/thak1996" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+![Snake animation](https://github.com/thak1996/thak1996/blob/output/github-contribution-grid-snake.svg)
+
 </div>

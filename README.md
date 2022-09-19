@@ -23,3 +23,4 @@
   <a href="https://www.linkedin.com/in/franklyn-v-santos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-yellowgreen" target="_blank"></a> 
 ![Snake animation](https://github.com/thak1996/thak1996/blob/output/github-contribution-grid-snake.svg) 
 </div>
+<!-- // ajusted -->

@@ -23,7 +23,6 @@
 <div align="center">
 
 <a href = "mailto:franklyn_vs_@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href = "http://discordapp.com/users/Thak1996#8629"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franklyn-v-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://t.me/thak1996" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 ![Snake animation](https://github.com/thak1996/thak1996/blob/output/github-contribution-grid-snake.svg)

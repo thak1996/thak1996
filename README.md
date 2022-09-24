@@ -1,17 +1,19 @@
 
-
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
 ## Olá! 
 
-### Eu sou o Franklyn Viana dos Santos, desenvolvedor mobile front-end com foco em Flutter e Dart.
+### Um pouco sobre mim
+Eu sou o Franklyn Viana dos Santos, apaixonado por motos, viagens e tudo que evolve tecnologia. Fico muito entusiasmado quando quero aprender algo novo, assumir novos desafios aplicáveis ao mundo real. Atualmente estou me dedicando a evoluir como um developer flutter, e futuramente a um full-stack, a caminhada será grande, mas nenhuma meta é impossível. 
+<div align="center"><img width="750" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/></div>
 
-## Documento de Git e GitFlow
-O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção de auxiliar e ajudar outros desenvolvedores com informações simples e direta, toda a informação contida no documento foi feita a partir dos conhecimentos adquiridos em cursos e estudos sobre vários sites, caso tenha alguma reclamação a fazer sobre o conteúdo, no final do documento tem as informações dos dois desenvolvedores.
+
+
+
+### Documento de Git e GitFlow
+O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção de auxiliar e ajudar outros desenvolvedores com informações simples e direta, toda a informação contida no documento foi feita a partir dos conhecimentos adquiridos em cursos e estudos sobre o assunto, caso tenha alguma reclamação a fazer sobre o conteúdo, no final do documento tem as informações dos dois desenvolvedores.
 
 <div align="center">
 <a href="https://drive.google.com/file/d/11cwBHHokplouWyvz45UZIy0-Teigs3WI/view?usp=sharing">
-<img src="https://img.shields.io/badge/PDF-GiteGitFlow-yellow" target="_blank">
+<img src="https://img.shields.io/badge/PDF-GitGitflow-yellow" target="_blank">
 </a>
 </div>
 <br>

@@ -12,7 +12,7 @@ Eu sou o Franklyn Viana dos Santos, apaixonado por motos, viagens e tudo que evo
 O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção de auxiliar e ajudar outros desenvolvedores com informações simples e direta, toda a informação contida no documento foi feita a partir dos conhecimentos adquiridos em cursos e estudos sobre o assunto, caso tenha alguma reclamação a fazer sobre o conteúdo, no final do documento tem as informações dos dois desenvolvedores.
 
 <div align="center">
-<a href="https://drive.google.com/file/d/11cwBHHokplouWyvz45UZIy0-Teigs3WI/view?usp=sharing">
+<a target="_blank" href="https://drive.google.com/file/d/11cwBHHokplouWyvz45UZIy0-Teigs3WI/view?usp=sharing">
 <img src="https://img.shields.io/badge/PDF-GitGitflow-yellow" target="_blank">
 </a>
 </div>

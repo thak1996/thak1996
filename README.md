@@ -6,6 +6,17 @@
 
 ### Eu sou o Franklyn Viana dos Santos, desenvolvedor mobile front-end com foco em Flutter e Dart.
 
+## Documento de Git e GitFlow
+O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção de auxiliar e ajudar outros desenvolvedores com informações simples e direta, toda a informação contida no documento foi feita a partir dos conhecimentos adquiridos em cursos e estudos sobre vários sites, caso tenha alguma reclamação a fazer sobre o conteúdo, no final do documento tem as informações dos dois desenvolvedores.
+
+<div align="center">
+<a href="https://drive.google.com/file/d/11cwBHHokplouWyvz45UZIy0-Teigs3WI/view?usp=sharing">
+<img src="https://img.shields.io/badge/PDF-GiteGitFlow-yellow" target="_blank">
+</a>
+</div>
+<br>
+
+
 <div style="display: inline_block" align="center" >
   <a href="https://github.com/thak1996">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br>

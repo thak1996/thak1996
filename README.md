@@ -2,7 +2,7 @@
 ## Olá! 
 
 ### Um pouco sobre mim
-Eu sou o Franklyn Viana dos Santos, apaixonado por motos, viagens e tudo que evolve tecnologia. Fico muito entusiasmado quando quero aprender algo novo, assumir novos desafios aplicáveis ao mundo real. Atualmente estou me dedicando a evoluir como um developer flutter, e futuramente a um full-stack, a caminhada será grande, mas nenhuma meta é impossível. 
+Eu sou o Franklyn Viana dos Santos, apaixonado por motos, viagens e tudo que evolve tecnologia. Fico muito entusiasmado quando quero aprender algo novo, assumir novos desafios aplicáveis ao mundo real. Atualmente estou me dedicando a evoluir como um desenvolvedor, e futuramente a um full-stack, a caminhada será grande, mas nenhuma meta é impossível. 
 <div align="center"><img width="750" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/></div>
 
 

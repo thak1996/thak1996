@@ -15,13 +15,11 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
 <img src="https://img.shields.io/badge/PDF-GitGitflow-yellow" target="_blank">
 </a>
 </div>
-<br>
 
 ##
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&show=prs_merged"/>
-  <br><br>
+<div style="display: inline_block" align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&show=prs_merged"/> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 

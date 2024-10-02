@@ -19,9 +19,9 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
 ##
 
 <div style="display: inline_block; gap: 20px" align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&show=prs_merged&locale=pt-br"/> 
   <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&langs_count=7&theme=midnight-purple"/> -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&theme=chartreuse-dark&hide_progress=true&locale=pt-br&langs_count=4"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&theme=chartreuse-dark&hide_progress=true&locale=pt-br&langs_count=6"/>
 </div>
 
 <br>

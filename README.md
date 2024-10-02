@@ -17,11 +17,15 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
 </div>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=transparent)
+
 <!-- <div style="display: inline_block" align="center" >
   <a href="https://github.com/thak1996">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div><br> -->
+</div> -->
+
+<br>
 <div style="display: inline_block"  align="center">
   <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
@@ -30,16 +34,11 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
-<!-- </div>
-
-  ##
-
-<div align="center"> -->
+<div align="center">
 
 <!-- ![Snake animation](https://github.com/thak1996/thak1996/blob/output/github-contribution-grid-snake.svg) -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=transparent)
 
 <a href = "mailto:franklyn_vs_@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/franklyn-v-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

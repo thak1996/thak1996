@@ -17,8 +17,11 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
 </div>
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+##
+
+<div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&show=prs_merged"/>
+  <br><br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 

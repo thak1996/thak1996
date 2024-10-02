@@ -23,7 +23,7 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=transparent) -->
 
   <a href="https://github.com/thak1996">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=transparent"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&show=prs_merged"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 

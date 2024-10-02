@@ -11,9 +11,9 @@ Eu sou o Franklyn Viana dos Santos, apaixonado por motos, viagens e tudo que evo
 O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção de auxiliar e ajudar outros desenvolvedores com informações simples e direta, toda a informação contida no documento foi feita a partir dos conhecimentos adquiridos em cursos e estudos sobre o assunto, caso tenha alguma reclamação a fazer sobre o conteúdo, no final do documento tem as informações dos dois desenvolvedores.
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1un-aECBSbpnRB5Y7ZOviD_PFk10mA0CL/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/PDF-GitGitflow-yellow" alt="PDF GitGitflow">
-</a>
+  <a href="https://drive.google.com/file/d/1un-aECBSbpnRB5Y7ZOviD_PFk10mA0CL/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/PDF-GitGitflow-yellow" alt="PDF GitGitflow">
+  </a>
 </div>
 
 ##
@@ -33,6 +33,10 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
 
 ##
@@ -44,5 +48,6 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
 <a href = "mailto:franklyn_vs_@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/franklyn-v-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://t.me/thak1996" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://wa.link/ew38tm" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>

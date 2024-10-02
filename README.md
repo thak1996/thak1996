@@ -17,13 +17,17 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=transparent)
+<div class="row">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=transparent)
+</div>
+<br>
 
-<!-- <div style="display: inline_block" align="center" >
+<div style="display: inline_block" align="center" >
   <a href="https://github.com/thak1996">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div> -->
+</div>
+</div>
 
 <br>
 <div style="display: inline_block"  align="center">
@@ -35,6 +39,8 @@ O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção 
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+
+<br>
 
 <div align="center">
 

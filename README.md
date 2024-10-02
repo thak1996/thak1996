@@ -11,17 +11,17 @@ Eu sou o Franklyn Viana dos Santos, apaixonado por motos, viagens e tudo que evo
 O seguinte arquivo foi criado por dois desenvolvedores novatos com a intenção de auxiliar e ajudar outros desenvolvedores com informações simples e direta, toda a informação contida no documento foi feita a partir dos conhecimentos adquiridos em cursos e estudos sobre o assunto, caso tenha alguma reclamação a fazer sobre o conteúdo, no final do documento tem as informações dos dois desenvolvedores.
 
 <div align="center">
-<a target="_blank" href="https://drive.google.com/file/d/1un-aECBSbpnRB5Y7ZOviD_PFk10mA0CL/view?usp=drive_link">
-<img src="https://img.shields.io/badge/PDF-GitGitflow-yellow" target="_blank">
+<a href="https://drive.google.com/file/d/1un-aECBSbpnRB5Y7ZOviD_PFk10mA0CL/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/PDF-GitGitflow-yellow" alt="PDF GitGitflow">
 </a>
 </div>
 
 ##
 
 <div style="display: inline_block; gap: 20px" align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&show=prs_merged&locale=pt-br"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thak1996&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&show=prs_merged&locale=pt-br"/> 
   <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&langs_count=7&theme=midnight-purple"/> -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&theme=midnight-purple&hide_progress=true&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thak1996&layout=compact&theme=chartreuse-dark&hide_progress=true&locale=pt-br$langs_count=10"/>
 </div>
 
 <br>
